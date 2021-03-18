@@ -4,7 +4,7 @@
 #
 Name     : perl-Image-Base
 Version  : 1.17
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/K/KR/KRYDE/Image-Base-1.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KR/KRYDE/Image-Base-1.17.tar.gz
 Summary  : Base class for image manipulation
@@ -81,4 +81,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Image/Base.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Image/Base.pm
