@@ -7,7 +7,7 @@
 #
 Name     : perl-Image-Base
 Version  : 1.17
-Release  : 20
+Release  : 21
 URL      : https://cpan.metacpan.org/authors/id/K/KR/KRYDE/Image-Base-1.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KR/KRYDE/Image-Base-1.17.tar.gz
 Summary  : Base class for image manipulation
